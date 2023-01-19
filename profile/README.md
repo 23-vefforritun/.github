@@ -3,7 +3,10 @@
 
 🙋‍♀️ [Verkefni](https://github.com/23-vefforritun/Verkefni)
 
-👩‍💻 Bjargir
+👩‍💻 [Bjargir](https://github.com/23-vefforritun/Verkefni/wiki)
+
+🧙 [Bókin um vefforritun](https://bok.vefforritun.is/)
+
 
 <!--
 🍿 Fun facts - what does your team eat for breakfast?
