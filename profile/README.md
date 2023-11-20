@@ -1,4 +1,4 @@
-## Þetta vefsvæði er í endurvinnslu 👋
+## Vefforritun og gagnasafnsfræði 👋
 
 <!--
 🙋‍♀️ [Verkefni](https://github.com/23-vefforritun/Verkefni)
